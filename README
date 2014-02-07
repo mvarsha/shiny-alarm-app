@@ -1,0 +1,7 @@
+IOS alarm clock with following features
+Sets alarm for given timestamp, for example 20:00:00 01/01/2015.
+Shows what time alarm is set for.
+Can unset alarm listed by swiping to delete.
+Can snooze alarm for sometime. For example snooze it for 15 mins. Alarm should go off again at 20:15:00 01/01/2015
+
+This project is built using xCode 5.0.2, iOS 7.
